@@ -6,20 +6,30 @@ The Assembly Quiz Game is a simple multiple-choice quiz built using x86 assembly
 Features:
 
 10 Multiple-Choice Questions: Each question has three possible answers, with only one correct choice.
+
 Scoring System: Correct answers increase the player's score, while incorrect answers decrease it.
+
 High Score Tracker: The game keeps track of the highest score achieved and displays both the current score and the high score at the end.
+
 Game Control: Players can restart the game at any point or quit anytime.
+
 Lifeline Feature: A single-use lifeline removes one incorrect answer from a question, increasing the player's chances of selecting the correct option.
 
 
 How to Play:
 
 The game will display a question along with three answer choices.
+
 Enter the number corresponding to your chosen answer.
+
 If the answer is correct, your score will increase; if incorrect, your score will decrease.
+
 You can use the lifeline once per game to eliminate one wrong option.
+
 At the end of the game, your final score and the highest score will be displayed.
+
 Choose to restart the game or quit.
+
 The high score is stored only for the session; restarting the emulator resets it.
 
 Requirements:
